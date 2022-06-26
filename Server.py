@@ -7,7 +7,7 @@ mydb = mysql.connector.connect(
     host="127.0.0.1",
     port="3306",
     user="root",
-    password="iithinkilyS12",
+    password="",
     database="final",
     auth_plugin="mysql_native_password"
 ) #mysql 연결
